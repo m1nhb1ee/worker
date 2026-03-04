@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+phonenumberslite
+requests
+pydantic
+selenium
+undetected-chromedriver
+drissionpage
